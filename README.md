@@ -3,6 +3,7 @@
 ## Developer Web
 
 [📧 MAIL](mailto:nicolas.rombi@gmx.fr)  
+* LinkedIn: [@Nicolas Rombi](https://www.linkedin.com/in/nicolas-rombi/)
 [🔗 LinkedIn](https://www.linkedin.com/in/nicolas-rombi/)  
 [📄 Curriculum Vitae](https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing)
 
