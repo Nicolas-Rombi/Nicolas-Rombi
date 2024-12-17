@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Mail-%2300BFFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail">
   </a>
   <a href="https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-%23FFD700?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/curriculum%20vitae-yellow?style=for-the-badge&logo=readdotcv" alt="CV">
   </a>
 </div>
 
