@@ -1,10 +1,8 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Hi👋, I'm Nicolas Rombi
 
-# <span style="color: #0cc9e3;"> Hi👋, I'm Nicolas Rombi
+## Developer
 
-## Developpeur Web
-
-<a href="nicolas.rombi@gmx.fr" style="text-decoration: none;">
+<a href="mailto:nicolas.rombi@gmx.fr" style="text-decoration: none;">
   <div style="display: inline-block; background-color: red; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-family: Arial, sans-serif; font-weight: bold;">
     📧 MAIL
   </div>
@@ -31,41 +29,31 @@ If you’re looking for a motivated and adaptable developer, let’s connect! �
 
 ## Programming Languages and Tools
 
-<i class="devicon-react-original colored" style="font-size: 50px;"></i>
-<i class="devicon-javascript-plain colored"
-style="font-size: 50px;"></i>
-<i class="devicon-php-plain colored"
-style="font-size: 50px;"></i>
-<i class="devicon-nodejs-plain-wordmark colored"
-style="font-size: 50px;"></i>
-<i class="devicon-nextjs-original-wordmark colored"
-style="font-size: 50px;"></i>
-<i class="devicon-redux-original colored"
-style="font-size: 50px;"></i>
-<i class="devicon-git-plain-wordmark colored"
-style="font-size: 50px;"></i>
-<i class="devicon-github-original-wordmark"
-style="font-size: 50px;"></i>
-<i class="devicon-vscode-plain-wordmark colored"
-style="font-size: 50px;"></i>
+### Frontend:
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
+
+### Backend:
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg)
+![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg)
+
+### Tools:
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg)
 
 ## Experience 
+
 ### Conso-Maestro Mobile Application
 **Conso-Maestro is a mobile application designed for food product management, enabling users to track expiration dates, storage locations, and optimize consumption through intuitive features.**
 
-**Key Features and Contributions:
-Developed and managed APIs using Express.js.
-Built user interfaces with React Native.
-Designed and implemented the database with MongoDB.
-Followed the MVC architecture for clean and maintainable code.
-Successfully deployed the application to production.**
+**Key Features and Contributions:**
+- Developed and managed APIs using Express.js.
+- Built user interfaces with React Native.
+- Designed and implemented the database with MongoDB.
+- Followed the MVC architecture for clean and maintainable code.
+- Successfully deployed the application to production.
+
 [Watch the Conso Maestro Presentation](https://youtu.be/5kJMQ8H_8Hk)
-
-
-
-
-
-
-
-
-
