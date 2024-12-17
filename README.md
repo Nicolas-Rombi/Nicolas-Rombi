@@ -1,22 +1,10 @@
 # Hi👋, I'm Nicolas Rombi
 
-## Developer
+## Developer Web
 
-<a href="mailto:nicolas.rombi@gmx.fr" style="text-decoration: none;">
-  <div style="display: inline-block; background-color: red; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-family: Arial, sans-serif; font-weight: bold;">
-    📧 MAIL
-  </div>
-</a>
-<a href="https://www.linkedin.com/in/nicolas-rombi/" style="text-decoration: none;">
-  <div style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-family: Arial, sans-serif; font-weight: bold;">
-    🔗 LinkedIn
-  </div>
-</a>
-<a href="https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing" style="text-decoration: none;" target="_blank">
-  <div style="display: inline-block; background-color: green; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-family: Arial, sans-serif; font-weight: bold;">
-    📄 Curriculum Vitae
-  </div>
-</a>
+[📧 MAIL](mailto:nicolas.rombi@gmx.fr)  
+[🔗 LinkedIn](https://www.linkedin.com/in/nicolas-rombi/)  
+[📄 Curriculum Vitae](https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing)
 
 ## About me
 Hello! I’m a passionate web developer in career transition. After spending time exploring other professional paths, I decided to fully embrace my love for technology and problem-solving.
