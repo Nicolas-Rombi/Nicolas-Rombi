@@ -2,9 +2,18 @@
 
 ## Developer Web
 
-[📧 MAIL](mailto:nicolas.rombi@gmx.fr)  
-[🔗 LinkedIn](https://www.linkedin.com/in/nicolas-rombi/)  
-[📄 Curriculum Vitae](https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing)
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nicolas-rombi/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="Linkedin">
+  </a>
+  <a href="mailto:nicolas.rombi@gmx.fr">
+    <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=maildotru" alt="Mail">
+  </a>
+  <a href="https://drive.google.com/file/d/1avh_hmMrnOQJOIRnoqyXhw0eVwFwLjIn/view?usp=sharing">
+    <img src="https://img.shields.io/badge/curriculum%20vitae-yellow?style=for-the-badge&logo=readdotcv" alt="CV">
+  </a>
+</div>
+
 
 ## About me
 Hello! I’m a passionate web developer in career transition. After spending time exploring other professional paths, I decided to fully embrace my love for technology and problem-solving.
