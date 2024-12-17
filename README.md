@@ -30,19 +30,19 @@ If you’re looking for a motivated and adaptable developer, let’s connect! �
 ## Programming Languages and Tools
 
 ### Frontend:
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =50x50)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg =50x50)
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg =50x50)
-![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg =50x50)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)
+![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
 
 ### Backend:
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg =50x50)
-![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg =50x50)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg)
+![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg)
 
 ### Tools:
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg =50x50)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg =50x50)
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg =50x50)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg)
 
 ## Experience 
 
