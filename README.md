@@ -39,6 +39,9 @@ If you’re looking for a motivated and adaptable developer, let’s connect! �
   <img src="https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/next.js%20-%20red?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  
+
 </div>
 
 ### Tools:
